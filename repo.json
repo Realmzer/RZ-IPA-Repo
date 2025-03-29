@@ -44,7 +44,7 @@
       "developerName": "Triniti, Realmzer, Zweronz",
       "description": "A port for Call of Mini Dino Hunter that brings it to new device.\nStatus: ✅",
       "localizedDescription": "A port for Call of Mini Dino Hunter that brings it to new device.\nStatus: ✅",
-      "iconURL": "https://raw.githubusercontent.com/Realmzer/RZ-IPA-Repo/refs/heads/main/img/apps/callofminidinohunter.png",
+      "iconURL": "https://github.com/Realmzer/RZ-IPA-Repo/blob/main/img/apps/callofminidinohunter.jpg?raw=true",
       "tintColor": "e74b45",
       "category": "games",
       "version": "1.0",
@@ -62,31 +62,6 @@
       ]
     },
     {
-        "beta": true,
-        "name" : "Call of Mini Zombies Online",
-        "bundleIdentifier": "com.realmzer.comz1",
-        "developerName" : "Realmzer, ChoppySloppy542, Zweronz, Triniti",
-        "subtitle": "iOS x64 Port of Call of Mini Zombies with Online support",
-        "description": "A modified version of an old mobile shooter game called Call of Mini Zombies now revived with versus support.\nWARNING: In beta so expect glitches\nStatus: ✅🔥",
-        "localizedDescription": "A modified version of an old mobile shooter game called Call of Mini Zombies now revived with versus support.\nWARNING: In beta so expect glitches\nStatus: ✅🔥",
-        "iconURL": "https://raw.githubusercontent.com/Realmzer/RZ-IPA-Repo/refs/heads/main/img/apps/callofminizombies.png",
-        "tintColor": "3bf739",
-        "category": "games",
-        "version": "1.0",
-        "versionDate" : "2025-03-28",
-        "downloadURL": "https://github.com/Realmzer/RZ-IPA-Repo/releases/download/2025-3-29/CoMZ1fixedmaybe.ipa",
-        "size": 131558557,
-        "title": "Call of Mini Zombies Online",
-        "versions" : [
-          {
-            "version": "1.0",
-            "date" : "2025-03-28",
-            "downloadURL": "https://github.com/Realmzer/RZ-IPA-Repo/releases/download/2025-3-29/CoMZ1fixedmaybe.ipa",
-            "size": 131558557
-          }
-        ]
-      },
-      {
         "beta": true,
         "name" : "Call of Mini Zombies Online",
         "bundleIdentifier": "com.realmzer.comz1",
