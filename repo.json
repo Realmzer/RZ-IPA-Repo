@@ -19,7 +19,7 @@
       "developerName": "Triniti, Realmzer, Zweronz",
       "description": "Embark on a thrilling journey to save the world from the undead in Call of Mini Zombies 2, the action-packed sequel where you'll directly confront hordes of zombies. In this engaging experience, players are equipped with an arsenal of 10 lethal weapons to fend off the zombie outbreak and restore peace.",
       "localizedDescription": "Embark on a thrilling journey to save the world from the undead in Call of Mini Zombies 2, the action-packed sequel where you'll directly confront hordes of zombies. In this engaging experience, players are equipped with an arsenal of 10 lethal weapons to fend off the zombie outbreak and restore peace.",
-      "iconURL": "https://raw.githubusercontent.com/Realmzer/RZ-IPA-Repo/refs/heads/main/img/apps/callofminizombies2.png",
+      "iconURL": "https://github.com/Realmzer/RZ-IPA-Repo/blob/main/img/apps/callofminizombies2.png?raw=true",
       "tintColor": "e6cc28",
       "category": "games",
       "version": "1.0.0",
@@ -69,7 +69,7 @@
         "subtitle": "iOS x64 Port of Call of Mini Zombies with Online support",
         "description": "A modified version of an old mobile shooter game called Call of Mini Zombies now revived with versus support.\nWARNING: In beta so expect glitches\nStatus: ✅🔥",
         "localizedDescription": "A modified version of an old mobile shooter game called Call of Mini Zombies now revived with versus support.\nWARNING: In beta so expect glitches\nStatus: ✅🔥",
-        "iconURL": "https://raw.githubusercontent.com/Realmzer/RZ-IPA-Repo/refs/heads/main/img/apps/callofminizombies.png",
+        "iconURL": "https://github.com/Realmzer/RZ-IPA-Repo/blob/main/img/apps/callofminizombies.png?raw=true",
         "tintColor": "3bf739",
         "category": "games",
         "version": "1.0",
@@ -94,7 +94,7 @@
       "caption": "If you want to support me, join my Discord.",
       "date": "2025-03-28",
       "tintColor": "#5165F7",
-      "imageURL": "https://cdn1.realmzer.xyz//Discord_Symbol_1141822239-fz.png",
+      "imageURL": "https://github.com/Realmzer/RZ-IPA-Repo/blob/main/img/news/discordnews.png?raw=true",
       "notify": true,
       "url": "https://discord.gg/XH7TBnwGPC"
       }
