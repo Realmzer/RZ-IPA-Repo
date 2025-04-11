@@ -1,12 +1,12 @@
 {
     "name": "RZ iOS Repository",
     "identifier": "rz.ios.repository",
-    "iconURL": "https://raw.githubusercontent.com/Realmzer/RZ-IPA-Repo/refs/heads/main/repo-icon.png",
+    "iconURL": "https://raw.githubusercontent.com/Realmzer/RZ-IPA-Repo/refs/heads/main/repo-iconNew.jpg",
     "website": "https://realmzer.xyz",
     "patreonURL": "https://www.patreon.com/c/Realmzer",
     "subtitle": "RZ iOS Repository",
     "description": "Realmzer's iOS apps and games.",
-    "tintColor": "A020F0",
+    "tintColor": "7a2897",
     "featuredApps": [
     ],
     
@@ -17,7 +17,6 @@
       "bundleIdentifier": "com.realmzer.comz2",
       "subtitle": "64bit port of COMZ2",
       "developerName": "Triniti, Realmzer, Zweronz",
-      "description": "Embark on a thrilling journey to save the world from the undead in Call of Mini Zombies 2, the action-packed sequel where you'll directly confront hordes of zombies. In this engaging experience, players are equipped with an arsenal of 10 lethal weapons to fend off the zombie outbreak and restore peace.",
       "localizedDescription": "Embark on a thrilling journey to save the world from the undead in Call of Mini Zombies 2, the action-packed sequel where you'll directly confront hordes of zombies. In this engaging experience, players are equipped with an arsenal of 10 lethal weapons to fend off the zombie outbreak and restore peace.",
       "iconURL": "https://github.com/Realmzer/RZ-IPA-Repo/blob/main/img/apps/callofminizombies2.png?raw=true",
       "tintColor": "e6cc28",
@@ -42,7 +41,6 @@
       "bundleIdentifier": "com.realmzer.comdinohunter",
       "subtitle": "64bit port of COM Dino Hunter",
       "developerName": "Triniti, Realmzer, Zweronz",
-      "description": "A port for Call of Mini Dino Hunter that brings it to new device.",
       "localizedDescription": "A port for Call of Mini Dino Hunter that brings it to new device.",
       "iconURL": "https://github.com/Realmzer/RZ-IPA-Repo/blob/main/img/apps/callofminidinohunter.jpg?raw=true",
       "tintColor": "e74b45",
@@ -67,8 +65,7 @@
         "bundleIdentifier": "com.realmzer.comz1",
         "developerName" : "Realmzer, ChoppySloppy542, Zweronz, Triniti",
         "subtitle": "iOS x64 Port of Call of Mini Zombies with Online support",
-        "description": "A modified version of an old mobile shooter game called Call of Mini Zombies now revived with versus support.\nWARNING: In beta so expect glitches.",
-        "localizedDescription": "A modified version of an old mobile shooter game called Call of Mini Zombies now revived with versus support.\nWARNING: In beta so expect glitches.",
+        "localizedDescription": "Note: Currently Broken. A modified version of an old mobile shooter game called Call of Mini Zombies now revived with versus support.\nWARNING: In beta so expect glitches.",
         "iconURL": "https://github.com/Realmzer/RZ-IPA-Repo/blob/main/img/apps/callofminizombies.png?raw=true",
         "tintColor": "3bf739",
         "category": "games",
@@ -85,6 +82,30 @@
             "size": 131558557
           }
         ]
+      },
+      {
+        "beta": true,
+        "name" : "MW Reborn TF",
+        "bundleIdentifier": "com.mwreborntf",
+        "developerName" : "Moment Interactive aka Triniti Interactive",
+        "subtitle": "Mini Warriors Reborn Decrypted",
+        "localizedDescription": "A decrypted version of Mini Warriors Reborn from the App Store.",
+        "iconURL": "https://github.com/Realmzer/RZ-IPA-Repo/blob/main/img/apps/miniwarriorsreborntf?raw=true",
+        "tintColor": "a8835a",
+        "category": "games",
+        "version": "3.5.0",
+        "versionDate" : "2025-04-10",
+        "downloadURL": "https://github.com/Realmzer/RZ-IPA-Repo/releases/download/2025-4-11/MiniWarriorsRebornTF_3.5.0.ipa",
+        "size": 646651904,
+        "title": "MW Reborn TF",
+        "versions" : [
+          {
+            "version": "3.5.0",
+            "date" : "2025-04-10",
+            "downloadURL": "https://github.com/Realmzer/RZ-IPA-Repo/releases/download/2025-4-11/MiniWarriorsRebornTF_3.5.0.ipa",
+            "size": 646651904
+          }
+        ]
       }
     ],
     "news": [
@@ -93,7 +114,7 @@
       "identifier": "discordjoin",
       "caption": "If you want to support me, join my Discord.",
       "date": "2025-03-28",
-      "tintColor": "#5165F7",
+      "tintColor": "#7a2897",
       "imageURL": "https://github.com/Realmzer/RZ-IPA-Repo/blob/main/img/news/discordnews.png?raw=true",
       "notify": true,
       "url": "https://discord.gg/XH7TBnwGPC"
