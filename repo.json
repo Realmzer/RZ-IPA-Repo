@@ -5,7 +5,7 @@
     "website": "https://realmzer.xyz",
     "patreonURL": "https://www.patreon.com/c/Realmzer",
     "subtitle": "RZ iOS Repository",
-    "description": "Realmzer's iOS apps and games.",
+    "description": "Realmzer's iOS apps and games repository.",
     "tintColor": "7a2897",
     "featuredApps": [
     ],
@@ -104,6 +104,30 @@
             "date" : "2025-04-10",
             "downloadURL": "https://github.com/Realmzer/RZ-IPA-Repo/releases/download/2025-4-11/MiniWarriorsRebornTF_3.5.0.ipa",
             "size": 646651904
+          }
+        ]
+      },
+      {
+        "beta": false,
+        "name" : "Feedback Assistant",
+        "bundleIdentifier": "com.apple.appleseed.FeedbackAssistant",
+        "developerName" : "Apple",
+        "subtitle": "Feedback Assitant Decrypted",
+        "localizedDescription": "Makes it easier to report issues you encounter and request enhancements to APIs, tools, and services.",
+        "iconURL": "https://github.com/Realmzer/RZ-IPA-Repo/blob/main/img/apps/feedback2019.png?raw=true",
+        "tintColor": "b85ce5",
+        "category": "other",
+        "version": "4.0",
+        "versionDate" : "2025-04-13",
+        "downloadURL": "https://dl.realmzer.xyz/Feedback-4.0.ipa",
+        "size": 1111651,
+        "title": "Feedback Assistant",
+        "versions" : [
+          {
+            "version": "4.0",
+            "date" : "2025-04-13",
+            "downloadURL": "https://dl.realmzer.xyz/Feedback-4.0.ipa",
+            "size": 1111651
           }
         ]
       }
