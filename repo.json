@@ -119,14 +119,14 @@
         "category": "other",
         "version": "4.0",
         "versionDate" : "2025-04-13",
-        "downloadURL": "http://dl.realmzer.xyz/Feedback-4.0.ipa",
+        "downloadURL": "https://dl.realmzer.xyz/Feedback-4.0.ipa",
         "size": 1111651,
         "title": "Feedback Assistant",
         "versions" : [
           {
             "version": "4.0",
             "date" : "2025-04-13",
-            "downloadURL": "http://dl.realmzer.xyz/Feedback-4.0.ipa",
+            "downloadURL": "https://dl.realmzer.xyz/Feedback-4.0.ipa",
             "size": 1111651
           }
         ]
