@@ -45,14 +45,14 @@
       "iconURL": "https://github.com/Realmzer/RZ-IPA-Repo/blob/main/img/apps/callofminidinohunter.jpg?raw=true",
       "tintColor": "e74b45",
       "category": "games",
-      "version": "1.0",
+      "version": "1.0.0",
       "versionDate" : "2025-03-28",
       "downloadURL": "https://github.com/Realmzer/RZ-IPA-Repo/releases/download/2025-3-29/comdinohunterfixed.ipa",
       "size": 108371968,
       "title": "Call of Mini Dino Hunter",
       "versions" : [
         {
-          "version": "1.0",
+          "version": "1.0.0",
           "date" : "2025-3-28",
           "downloadURL": "https://github.com/Realmzer/RZ-IPA-Repo/releases/download/2025-3-29/comdinohunterfixed.ipa",
           "size": 108371968
@@ -69,14 +69,14 @@
         "iconURL": "https://github.com/Realmzer/RZ-IPA-Repo/blob/main/img/apps/callofminizombies.png?raw=true",
         "tintColor": "3bf739",
         "category": "games",
-        "version": "1.0",
+        "version": "1.0.0",
         "versionDate" : "2025-03-28",
         "downloadURL": "https://github.com/Realmzer/RZ-IPA-Repo/releases/download/2025-3-29/CoMZ1fixedmaybe.ipa",
         "size": 131558557,
         "title": "Call of Mini Zombies Online",
         "versions" : [
           {
-            "version": "1.0",
+            "version": "1.0.0",
             "date" : "2025-03-28",
             "downloadURL": "https://github.com/Realmzer/RZ-IPA-Repo/releases/download/2025-3-29/CoMZ1fixedmaybe.ipa",
             "size": 131558557
